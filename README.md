@@ -15,7 +15,7 @@ Please report bugs and feature requests on the [issues list](../../issues).
 
 You can download the current APK by scanning or clicking the following barcode:
 
-##Disclaimer
+##Disclaimer me
 
   * Even though a lot of contributors are working for Google, this is not an
     official Google product.
